@@ -5,4 +5,12 @@ author: "Abdullah Ariff"
 categories: general
 ---
 
-Hello, world!
+The page is blank and staring.
+
+Bewitched, I stare back,
+
+wondering, which step,
+
+so tentatively placed,
+
+will take me there.
