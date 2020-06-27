@@ -1,5 +1,5 @@
 dev:
-	bundle exec jekyll serve --trace
+	bundle exec jekyll serve --livereload
 
 install: 
 	bundle install
