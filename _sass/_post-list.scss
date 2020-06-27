@@ -45,6 +45,9 @@
     margin-bottom: 0;
     margin-top: 0;
   }
+  .post-link__title span {
+    border-bottom: 1px dotted;
+  }
 }
 
 .post-link__title + .post-link__excerpt {
