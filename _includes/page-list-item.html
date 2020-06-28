@@ -1,0 +1,11 @@
+
+{% unless page.title == "" %}<li>
+  <a href="{{ page.url | absolute_url }}" class="page-link">
+    <div class="page-link__heading">
+      <h1 class="page-link__title">      
+        <span>{{ page.title }}</span>
+      </h1>
+    </div>
+  </a>
+</li>
+      {% endunless %}
