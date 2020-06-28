@@ -3,10 +3,11 @@
   border-radius: 1em;
   color: $text-color;
   display: inline;
-  font-size: .75em;
+  font-size: .6em;
   font-weight: 700;
-  padding: 0 .75em;
+  padding: 0 .3em;
   text-decoration: none;
+  vertical-align: super;
   margin: 0 .25em;
   &:hover,
   &:focus {
@@ -23,10 +24,16 @@
 
 .footnotes {
   margin-bottom: 4em;
-}
 
-.footnotes li {
-  margin-bottom: 1em;
+  ol {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  li {
+    margin-bottom: 1em;
+    font-size: .75em;
+  }
 }
 
 .reversefootnote {

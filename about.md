@@ -13,8 +13,10 @@ The sun would eventually set, and I would have to wave goodbye to my beloved cre
 
 It's hard to make castles of sand - even harder to keep them alive. Software is much the same. Code, free flowing like sand, is easy to string together. But it's fragile too. The bigger and more elaborate the systems, the more catastrophic potential failure can be.
 
-And all too often, the work we do as software developers feels ephemeral. In today's fast-moving world, businesses are spun out of thin air only for a wave, crashing suddenly, to wipe them out.
+And all too often, the work we do as software developers feels ephemeral[^1]. In today's fast-moving world, businesses are spun out of thin air only for a wave, crashing suddenly, to wipe them out.
 
 To succeed, it takes a special kind of grit. It takes experience; and a bottomless, ever-shifting pile of knowledge.
 
 This blog is an exploration. How _do_ I build castles in the sand?
+
+[^1]: Michael Lee's write up on [ephemeral software](https://michaelsoolee.com/ephemeral-software/) puts it well.
