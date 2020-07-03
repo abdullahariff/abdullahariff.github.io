@@ -5,12 +5,14 @@ author: "Abdullah Ariff"
 categories: general
 ---
 
-The page is blank and staring.
+<div class="poem alternate">
+<p>The page is blank and staring.</p>
 
-Bewitched, I stare back,
+<p>Bewitched, I stare back.</p>
 
-wondering, which step,
+<p>Wondering, which step,</p>
 
-so tentatively placed,
+<p>so tentatively placed,</p>
 
-will take me there.
+<p>will take me there.</p>
+</div>

@@ -26,6 +26,13 @@
   text-justify: inter-word;
 }
 
+.poem p {
+  margin-bottom: 0;
+}
+.poem.alternate p:nth-child(2n) {
+  text-indent: 1.5em;
+}
+
 .post p:first-of-type,
 .post h2 + p {
   text-indent: 0;
