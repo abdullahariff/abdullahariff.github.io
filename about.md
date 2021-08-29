@@ -19,4 +19,4 @@ To succeed, it takes a special kind of grit. It takes experience; and a bottomle
 
 This blog is an exploration. How _do_ I build castles in the sand?
 
-[^1]: Michael Lee's write up on [ephemeral software](https://michaelsoolee.com/ephemeral-software/) puts it well.
+[^1]: Michael Lee's write up on [ephemeral software](https://michaelsoolee.com/ephemeral-software/){:target="_blank"} puts it well.
