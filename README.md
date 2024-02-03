@@ -12,6 +12,6 @@ You're most welcome to open issues or pull requests if you have any comments, co
 
 All content is copyright of the author, Abdullah Ariff.
 
-You are free to quote, reference, reuse, or modify any or part of my articles so long as you attribute it to me.
+You are free to quote, reference, reuse, or redistribute any or part of my work so long as you attribute it to the author.
 
 The theme powering this blog us under the MIT License, and you may redistribute it with my modifications as described in [LICENSE.txt](LICENSE.txt)
